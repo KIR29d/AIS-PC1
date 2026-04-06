@@ -1,0 +1,8 @@
+# Documentation and diagrams
+*.puml
+*.plantuml
+*.svg
+*.pdf
+*.docx
+*.xlsx
+*.pptx
